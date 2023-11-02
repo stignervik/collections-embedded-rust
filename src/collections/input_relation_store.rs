@@ -48,7 +48,7 @@ impl InputRelationStore {
 }
 
 #[cfg(test)]
-mod tests {
+mod tinpuests {
     use super::*;
 
     #[test]
